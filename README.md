@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://www.freepik.com/free-ai-image/aesthetic-anime-character-gaming_209591436.htm#fromView=keyword&page=1&position=11&uuid=bc6c4ae6-3ae7-4bf0-b039-fd9b8148afa5&query=Anime+code](https://pin.it/4pMWKYkSO)" width="100%" alt="Banner" />
+  <img src="https://pin.it/4pMWKYkSO" width="100%" alt="Banner" />
 </div>
 
 <br/>
