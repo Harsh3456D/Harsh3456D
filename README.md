@@ -52,12 +52,7 @@
 <br/>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh3456D&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3456D&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 
-</div>
 
 
 <!--
