@@ -1,4 +1,5 @@
-<img src="1765134756482.jpg">
+<img src="1765134756482.jpg"><br>
+
 # About Me:
 I'm Harsh Dabas <br><br> What I’m working on right now:<br><br>Building: CLI and GUI applications (React / Tkinter) and web backends (Flask/Django).<br><br>Data Analyzing: with Pandas & NumPy.<br><br>Managing Data: working with SQL (PostgreSQL is just so good).<br><br>Learning: currently strengthening my core programming concepts with C++ , Machine learning and DSA.
 
