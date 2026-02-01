@@ -1,8 +1,8 @@
 # About Me:
-I'm Harsh Dabas <br><br>💻 What I’m working on right now:<br><br>Building: CLI and GUI applications (React / Tkinter) and web backends (Flask).<br><br>Data Analyzing: with Pandas & NumPy.<br><br>Managing Data: working with SQL (PostgreSQL is just so good).<br><br>Learning: currently strengthening my core programming concepts with C++ , Machine learning and DSA.
+I'm Harsh Dabas <br><br> What I’m working on right now:<br><br>Building: CLI and GUI applications (React / Tkinter) and web backends (Flask/Django).<br><br>Data Analyzing: with Pandas & NumPy.<br><br>Managing Data: working with SQL (PostgreSQL is just so good).<br><br>Learning: currently strengthening my core programming concepts with C++ , Machine learning and DSA.
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Wolf18_d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-dabas-89742b381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdabas1314@gmail.com) 
 
 ## Languages:
