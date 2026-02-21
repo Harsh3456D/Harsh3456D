@@ -30,8 +30,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsh3456d&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3456d&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://raw.githubusercontent.com/Harsh3456d/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
