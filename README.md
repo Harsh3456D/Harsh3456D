@@ -1,7 +1,7 @@
 
 
 # About Me:
-**I'm Harsh Dabas currently pursuing B.Tech CSE (AI/ML)** <br><br> What I’m working on right now:<br><br>*Building*: Models , Neural Networks and Web backends.<br><br>*Data Analyzing*: with Pandas & NumPy.<br><br>*Managing Data*: working with SQL (PostgreSQL is just so good).<br><br>*Learning*: currently strengthening my core programming concepts with C++ , Machine learning and DSA.
+**I'm Harsh Dabas currently pursuing B.Tech CSE (AI/ML)** <br><br> What I’m working on right now:<br><br>*Building*: Models , Neural Networks and Web backends.<br><br>*Data Analyzing*: with Pandas & NumPy.<br><br>*Managing Data*: Working with SQL (PostgreSQL is just so good).<br><br>*Learning*: Currently strengthening my core programming concepts with C++ , Machine learning and DSA.
 
 
 ## Socials:
