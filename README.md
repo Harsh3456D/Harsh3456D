@@ -30,6 +30,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Harsh3456d&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh3456d&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=Harsh3456D)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
